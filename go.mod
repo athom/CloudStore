@@ -3,7 +3,6 @@ module github.com/athom/CloudStore
 go 1.16
 
 require (
-	github.com/TruthHun/CloudStore v0.0.0-20191230140227-5712bf67b129
 	github.com/aliyun/aliyun-oss-go-sdk v2.1.7+incompatible
 	github.com/astaxie/beego v1.12.3
 	github.com/baidubce/bce-sdk-go v0.9.57
